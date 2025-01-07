@@ -14,8 +14,8 @@ A markdown to PDF converter with embedded charts, written in Zig.
 Requires Zig 0.11.0 or later.
 
 ```bash
-git clone https://github.com/yourusername/chartdown
-cd chartdown
+git clone git@github.com:even-wei/Chartdown.git
+cd Chartdown
 zig build
 ```
 
