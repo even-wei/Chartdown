@@ -29,11 +29,12 @@ chartdown input.md output.pdf
 
 Charts are embedded in markdown using code blocks with the `chart` identifier:
 
+```
 # Sales Report
 
 Our quarterly sales:
 
-```chart
+chart
 {
     type: "line",
     data: "sales.csv",
